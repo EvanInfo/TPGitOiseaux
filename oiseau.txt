@@ -2,3 +2,5 @@ Canard colvert
 Nette__rousse
 Canard pilet 
 Canard chipeau
+Canard siffleur
+Sarcelle d'hiver
